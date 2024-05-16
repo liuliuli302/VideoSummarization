@@ -6,7 +6,7 @@ The folder marked with an `*` will not be included in the project.
 
 + `dataset`
 
-  Implement of dataset and data loader
+  Implement of dataset and data loader.
 
 + `*datasource`
 

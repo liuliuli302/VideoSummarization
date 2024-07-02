@@ -8,7 +8,7 @@ The folder marked with an `*` will not be included in the project.
 
   Implement of dataset and data loader
 
-+ `*datasource`
++ `*data_source`
 
   Folder which stores original data
 
